@@ -1,2 +1,2 @@
 # Codsoft
-Internship Project guided by badal mishra 
+Internship Project on Web Development
